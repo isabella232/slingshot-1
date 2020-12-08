@@ -2,7 +2,6 @@
 # Slingshot Sample Instructions
 
 ![Taxi](images/manh_cab.0.0.jpg "Taxi")
-![This is a alt text.](/image/sample.png "This is a sample image.")
 
 ## Description 
 NYC Taxi and Limousine Commission (TLC) Trip Record Data is valuable to
@@ -10,7 +9,7 @@ understanding traffic patterns across the New York City region.  This data
 is availble monthly in CSV form and averages 25 GiB per calendar year.  
 Each year is archived and independently uploaded into Filecoin.
 
-Source 
+Source: [New York City Government](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 [User Guide](https://www1.nyc.gov/assets/tlc/downloads/pdf/trip_record_user_guide.pdf) 
 (also on Filecoin below)
@@ -33,7 +32,7 @@ Type is indicated in the table below and can be one of four values (yellow, gree
 A particular year is archived and compressed using standard tar and gzip and a tar.gz extension.
 
 
-## Directory Example (/images/folder.png "Taxi")
+## Directory Example ![Folder](images/folder.png "Folder")
 
 When extracted, the directory structure should look like the following:
 
@@ -91,6 +90,7 @@ nyc_docs/
 ```
 
 # Filecoin Data
+![Filecoin](images/filecoin_logo.png "Filecoin")
 
 | Year | cid | size (bytes) | miners |
 | -----|-----|--------------|--------|
