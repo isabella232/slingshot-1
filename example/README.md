@@ -1,7 +1,8 @@
 
 # Slingshot Sample Instructions
 
-!["Taxi"](/images/manh_cab.0.0.jpg)
+![Taxi](/images/manh_cab.0.0.jpg "Taxi")
+![This is a alt text.](/image/sample.png "This is a sample image.")
 
 ## Description 
 NYC Taxi and Limousine Commission (TLC) Trip Record Data is valuable to
