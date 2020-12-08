@@ -32,7 +32,7 @@ Type is indicated in the table below and can be one of four values (yellow, gree
 A particular year is archived and compressed using standard tar and gzip and a tar.gz extension.
 
 
-## Directory Example ![Folder](images/folder.png "Folder")
+## Directory Example <img src="images/folder.png" width="72"> 
 
 When extracted, the directory structure should look like the following:
 
