@@ -89,8 +89,7 @@ nyc_docs/
 		taxi_zone_map_staten_island.jpg
 ```
 
-# Filecoin Data
-![Filecoin](images/filecoin_logo.png "Filecoin")
+# <img src="images/fielcoin_logo.png" width="72"> Filecoin Data
 
 | Year | cid | size (bytes) | miners |
 | -----|-----|--------------|--------|
